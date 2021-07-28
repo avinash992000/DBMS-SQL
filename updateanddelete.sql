@@ -12,3 +12,4 @@ select * from employee; -->it displays data in table
 
 update employee set salary=1000000 where eno=1;  -->it will update the salary of avinash hera we have used where it will helps to navigate to particular location
 delete from employee where eno=3;-->it will delete that particular row from employee table
+rollback;-->it was used to retrive deleted data
